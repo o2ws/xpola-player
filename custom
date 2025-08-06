@@ -1,7 +1,9 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
-http://restream.cdn-4k.cloud:80/play/live.php?mac=00:1A:79:02:2C:29&stream=544431&extension=ts
+http://splustv.me:80/live/65787/54353/18086.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
-http://restream.cdn-4k.cloud:80/play/live.php?mac=00:1A:79:02:2C:29&stream=544474&extension=ts
+http://splustv.me:80/live/65787/54353/17974.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
-http://restream.cdn-4k.cloud:80/play/live.php?mac=00:1A:79:02:2C:29&stream=544509&extension=ts
+http://splustv.me:80/live/65787/54353/44574.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=426x240
+http://splustv.me:80/live/65787/54353/87825.m3u8
