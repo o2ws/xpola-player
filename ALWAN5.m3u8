@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
+http://Stariptv.org:8080/live/elqomari/modena/418123.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
+http://Stariptv.org:8080/live/elqomari/modena/418124.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
+http://Stariptv.org:8080/live/elqomari/modena/418125.m3u8
